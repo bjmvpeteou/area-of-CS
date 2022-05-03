@@ -1,0 +1,98 @@
+body {
+    margin-left: 1cm;
+    margin-top: 1.5cm;
+    margin-bottom: 3cm;
+    margin-right: 2cm;
+    font-weight: 300;
+    font-size: 14pt;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(220, 239, 239);
+
+}
+.image1 {
+    height: 10cm;
+    width: 30cm;
+    position: center;
+}
+.image2 {
+    height: 7cm;
+    width: 10cm;
+    float: right;
+}
+.image3 {
+    height: 5cm;
+    width: 8cm;
+    float: right;
+}
+.image4 {
+    height: 8cm;
+    width: 10cm;
+    float: right;  
+}
+.image6 {
+    height: 10cm;
+    width: 30cm;
+    position: center; 
+}
+.image7 {
+    height: 6cm;
+    width: 10cm;
+    float: right;  
+}
+.image8 {
+    height: 7cm;
+    width: 12cm;
+    float: bottom;
+    margin-left: 10cm;
+}
+.image9 {
+    height: 6cm;
+    width: 10cm;
+    float: right;
+}
+.image10 {
+    height: 10cm;
+    width: 12cm;
+    float: right;
+}
+.image11 {
+    height: 10cm;
+    width: 30cm;
+    position: center;
+}
+.image12 {
+    height: 10cm;
+    width: 10cm;
+    float: right;
+}
+.image13 {
+    height: 8cm;
+    width: 10cm;
+    float: right;
+}
+p {
+    text-indent: 1cm;
+    line-height: 0.7cm;
+}
+strong {
+    line-height: 0.7cm;
+    font-size: 14pt;
+}
+em {
+    color: rgb(81, 5, 55);
+}
+h3 {
+    padding-left: 1.5cm;
+    color: rgb(0, 20, 130);
+}
+.em1 {
+    font-weight: 1000;
+    color:black;
+}
+.conclusion {
+    font-size: 18pt;
+    color:rgb(24, 22, 22);
+    font-weight: 1000;
+    line-height: 0.75cm;
+    padding-left: 1.5cm;
+}
